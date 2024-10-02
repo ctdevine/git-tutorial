@@ -1,3 +1,3 @@
 Git Tutorial
 Colin Devine
-UChicago Student Resource Guide?
+UChicago Student Resource Guide
